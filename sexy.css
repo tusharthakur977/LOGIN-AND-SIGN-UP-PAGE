@@ -8,7 +8,7 @@
 
 body {
     font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-    background-image: url(../images/zzz.jpg);
+    background-image: url(../zzz.jpg);
     background-size: cover;
     background-position: center;
     height: 600px;
@@ -43,7 +43,7 @@ button {
     width: 810px;
     height: 550px;
     margin: 0 auto 100px;
-    background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)), url(../images/abc.jpg);
+    background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)), url(../abc.jpg);
     background-position: center;
     background-size: cover;
     box-shadow: -10px -10px 15px rgba(255, 255, 255, 0.3), 10px 10px 15px rgba(70, 70, 70, 0.15), inset -10px -10px 15px rgba(255, 255, 255, 0.3), inset 10px 10px 15px rgba(70, 70, 70, 0.15);
